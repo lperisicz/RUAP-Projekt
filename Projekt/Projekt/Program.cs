@@ -6,7 +6,7 @@ namespace Projekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Luka Perišić");
+            Console.WriteLine("Pozdrav iz aplikacije od Luka Perišić-Nemam Index");
         }
     }
 }
